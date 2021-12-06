@@ -1,4 +1,1 @@
-i cannot gurantee that these work (displaying formula/function correctly), 
-but i will attempt to upload a backup of my sheet each day
-
-TSV with values and text of formula can be found here too
+files in ods xlsx and tsv (of formula, not values), not all are available as export often failed on larger or more complex sheets
