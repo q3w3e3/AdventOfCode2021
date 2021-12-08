@@ -12,7 +12,7 @@
 | Day 5: Hydrothermal Venture | [Part 1](https://docs.google.com/spreadsheets/d/1Y2GKSC9sOqm7ORkq-gNmtVkPNgyEI0l1vJZYwOeumr8/edit#gid=999014571&range=R2) and [Part 2](https://docs.google.com/spreadsheets/d/1Y2GKSC9sOqm7ORkq-gNmtVkPNgyEI0l1vJZYwOeumr8/edit#gid=2140049265&range=R1)|
 | Day 6: Lanternfish | [Parts 1 and 2](https://docs.google.com/spreadsheets/d/1ObQ4Lol7Lmt1sXBQBO2cFGehCdHfbGEAzRfXVOqMrXc/edit#gid=390930693&range=D1:D2)|
 | Day 7: The Treachery of Whales | [Parts 1 and 2](https://docs.google.com/spreadsheets/d/10RQuuaX0qFas-UM1_ZDA6Zu3LJseDczUoYHjoMHg5JA/edit#gid=0&range=B3:B4)|
-| Day 8: Seven Segment Search | [Part 1 and 2] (https://docs.google.com/spreadsheets/d/1KYLXN9KCz4KFZPmeZVggNPHWjXJRdSLK3QIobKw6GZk/edit#gid=0&range=C1:C2) |
+| Day 8: Seven Segment Search | [Part 1 and 2](https://docs.google.com/spreadsheets/d/1KYLXN9KCz4KFZPmeZVggNPHWjXJRdSLK3QIobKw6GZk/edit#gid=0&range=C1:C2) |
 
 <hr>
 
