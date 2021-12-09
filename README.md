@@ -13,6 +13,7 @@
 | Day 6: Lanternfish | [Parts 1 and 2](https://docs.google.com/spreadsheets/d/1ObQ4Lol7Lmt1sXBQBO2cFGehCdHfbGEAzRfXVOqMrXc/edit#gid=390930693&range=D1:D2)|
 | Day 7: The Treachery of Whales | [Parts 1 and 2](https://docs.google.com/spreadsheets/d/10RQuuaX0qFas-UM1_ZDA6Zu3LJseDczUoYHjoMHg5JA/edit#gid=0&range=B3:B4)|
 | Day 8: Seven Segment Search | [Part 1 and 2](https://docs.google.com/spreadsheets/d/1KYLXN9KCz4KFZPmeZVggNPHWjXJRdSLK3QIobKw6GZk/edit#gid=0&range=C1:C2) |
+| Day 9: Smoke Basin | [Part 1](https://docs.google.com/spreadsheets/d/17moDF6UPRYZIK8nnr-xUCmqgSOX1cYHMhsGSc6VoQ4c/edit#gid=723086391&range=A1) and [Part 2](https://docs.google.com/spreadsheets/d/17moDF6UPRYZIK8nnr-xUCmqgSOX1cYHMhsGSc6VoQ4c/edit#gid=452225979&range=A1)
 
 <hr>
 
