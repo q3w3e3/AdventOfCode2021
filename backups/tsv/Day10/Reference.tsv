@@ -1,0 +1,8 @@
+(	open 1		
+[	open 2		
+{	open 3		
+<	open 4		
+)	close 1	3	1
+]	close 2	57	2
+}	close 3	1197	3
+>	close 4	25137	4
