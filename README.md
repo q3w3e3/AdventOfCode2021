@@ -15,6 +15,7 @@
 | Day 8: Seven Segment Search | [Part 1 and 2](https://docs.google.com/spreadsheets/d/1KYLXN9KCz4KFZPmeZVggNPHWjXJRdSLK3QIobKw6GZk/edit#gid=0&range=C1:C2) |
 | Day 9: Smoke Basin | [Part 1](https://docs.google.com/spreadsheets/d/17moDF6UPRYZIK8nnr-xUCmqgSOX1cYHMhsGSc6VoQ4c/edit#gid=723086391&range=A1) and [Part 2](https://docs.google.com/spreadsheets/d/17moDF6UPRYZIK8nnr-xUCmqgSOX1cYHMhsGSc6VoQ4c/edit#gid=452225979&range=A1) |
 | Day 10: Syntax Scoring | [Part 1](https://docs.google.com/spreadsheets/d/1ZSslK8dvIy8oyZhNwqQiYoZAk1NvULl5FGSU4jdwmGk/edit#gid=1670567356&range=Y1) and [Part 2](https://docs.google.com/spreadsheets/d/1ZSslK8dvIy8oyZhNwqQiYoZAk1NvULl5FGSU4jdwmGk/edit#gid=1670567356&range=BM1) |
+| Day 11: Dumbo Octopus | [Part 1 and 2](https://docs.google.com/spreadsheets/d/16EcxpIQzgST3HNsw8KjWSOMVfqF59F7WFRZ_F-bhX3Q/edit#gid=534977458&range=KC1:KC2) |
 
 <hr>
 
